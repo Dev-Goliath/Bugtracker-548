@@ -1,6 +1,6 @@
 # Bugtracker_Oficcial
 
-Sitio oficial para reportar errores dentro de Monster-WoW 4.3.4.
+Sitio oficial para reportar errores dentro de Panda-Monster 5.4.8.
 
 ## Guía de uso:
 
